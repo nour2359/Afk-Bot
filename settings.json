@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "Minehouse-zNQJ.aternos.me:22553",
+    "port": 22553,
     "version": "1.19.3"
   },
 
